@@ -38,5 +38,5 @@ The **Price Tracker System** is a full-stack web application that allows users t
 ## 📥 Installation & Setup
 ### 🔹 1. Clone the Repository
 ```sh
-git clone https://github.com/your-username/price-tracker.git
+git clone https://github.com/shriram-8teen/price-tracker.git
 cd price-tracker
